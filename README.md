@@ -9,5 +9,5 @@ Patient/Health Care Profession reports any side effect happened on any patient d
 - 4) Country where side effect occurred. 
 - 5) Date on which the side effect occured. 
 - 6) Seriousness of the event.
-This relevant details will be used to create a case that will be reportable to FDA.
+- This relevant details will be used to create a case that will be reportable to FDA.
 
